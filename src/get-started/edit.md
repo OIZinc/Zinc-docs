@@ -85,15 +85,27 @@ int main(){
     return 0;
 }
 ```
+**:point_right: 点击 :heavy_plus_sign:添加测试点 按钮以添加一个样例。**
+
+![添加样例](./image/edit/image-3.png)
 
 **:point_right: 在调试框内输入以下数据：**
 
-![样例](./image/edit/image-1.png)
+![第一个样例](./image/edit/image-1.png)
+
+**:point_right: 再次点击 :heavy_plus_sign:添加测试点 按钮以添加另一个样例并在调试框内输入以下数据：**
+
+![第二个样例](./image/edit/image-4.png)
 
 **:point_right: 点击 :arrow_right:运行样例。**
 
 ![通过](./image/edit/image-2.png)
 
 此处 `AC` 即代表通过。
+
+**:point_right: 您可以在样例之间切换。**
+
+![切换样例](./image/edit/image-5.png)
+
 
 **🎉恭喜！至此您已经了解了 编辑器 的基本使用方法。**

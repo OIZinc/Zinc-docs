@@ -16,7 +16,7 @@ actions:
     type: primary
 
   - text: GitHub 仓库
-    link: https://github.com/niuzhix/Zinc
+    link: https://github.com/OIZinc/Zinc
 
 ---
 
