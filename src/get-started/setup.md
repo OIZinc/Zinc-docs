@@ -24,9 +24,9 @@ category:
 
 ## 下载 Zinc
 
-Zinc 以 [Github Release](https://github.com/niuzhix/Zinc/releases/latest) 作为目前唯一的下载方式。
+Zinc 以 [Github Release](https://github.com/OIZinc/Zinc/releases/latest) 作为目前唯一的下载方式。
 
-**👉 在浏览器中打开<https://github.com/niuzhix/Zinc/releases/latest>。**
+**👉 在浏览器中打开<https://github.com/OIZinc/Zinc/releases/latest>。**
 
 还记得刚刚查看的系统信息吗？您需要根据系统信息中的架构信息下载对应架构的应用。
 
